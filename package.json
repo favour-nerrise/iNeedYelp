@@ -1,0 +1,19 @@
+{
+  "name": "ineedyelp",
+  "version": "1.0.0",
+  "description": "Capital One Summit - Coding Challenge",
+  "main": "decide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favour-nerrise/iNeedYelp.git"
+  },
+  "author": "Nerrise Favour Njunkeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favour-nerrise/iNeedYelp/issues"
+  },
+  "homepage": "https://github.com/favour-nerrise/iNeedYelp#readme"
+}
